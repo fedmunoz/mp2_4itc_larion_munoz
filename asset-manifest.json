@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mp2_4itc_larion_munoz/static/css/main.fd20359f.css",
+    "main.js": "/mp2_4itc_larion_munoz/static/js/main.37ec73c8.js",
+    "static/js/787.33733560.chunk.js": "/mp2_4itc_larion_munoz/static/js/787.33733560.chunk.js",
+    "index.html": "/mp2_4itc_larion_munoz/index.html",
+    "main.fd20359f.css.map": "/mp2_4itc_larion_munoz/static/css/main.fd20359f.css.map",
+    "main.37ec73c8.js.map": "/mp2_4itc_larion_munoz/static/js/main.37ec73c8.js.map",
+    "787.33733560.chunk.js.map": "/mp2_4itc_larion_munoz/static/js/787.33733560.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd20359f.css",
+    "static/js/main.37ec73c8.js"
+  ]
+}
